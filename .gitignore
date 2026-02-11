@@ -1,0 +1,27 @@
+# --- 1. Python Cache (Sampah Kompilasi) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 2. Virtual Environment (Folder Library) ---
+# Folder ini isinya ribuan file library, JANGAN di-upload.
+# Cukup upload requirements.txt saja.
+venv/
+env/
+.venv/
+.env
+
+# --- 3. File Hasil Generate (Audio/Cache) ---
+# File ini akan dibuat otomatis oleh script saat dijalankan.
+# Tidak perlu di-upload karena bikin berat.
+cache_audio/
+cache_31/
+*.mp3
+
+# --- 4. Settingan Editor/IDE ---
+.vscode/
+.idea/
+
+# --- 5. File Sampah OS ---
+.DS_Store
+Thumbs.db
