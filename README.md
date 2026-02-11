@@ -1,9 +1,9 @@
 
-# 🤖 Jarvis Hand Sign Recognition
+# Hand Sign Recognition
 
 Sistem cerdas berbasis Python yang mampu menerjemahkan 31 kombinasi gestur jari menjadi suara (Text-to-Speech) secara *real-time* dan *offline*. Alat ini dirancang untuk membantu komunikasi isyarat dengan akurasi tinggi menggunakan pustaka MediaPipe dan OpenCV.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **🖐️ 31 Kombinasi Gestur**: Mendukung pemetaan lengkap 31 variasi jari (dari kelingking hingga jempol) sesuai dengan standar dataset visual.
 * **🔊 Kustomisasi Teks ke Suara**: Pengguna dapat mengisi teks ucapan secara dinamis untuk setiap nomor gestur sebelum menjalankan program.
@@ -11,12 +11,12 @@ Sistem cerdas berbasis Python yang mampu menerjemahkan 31 kombinasi gestur jari 
 * **📡 Mode Offline**: Tidak memerlukan koneksi internet atau API eksternal (seperti Gemini AI) saat menjalankan deteksi di kamera.
 * **🖥️ Clean HUD UI**: Tampilan antarmuka yang bersih dengan subtitle transparan yang menampilkan hasil terjemahan secara langsung.
 
-## 🛠️ Prasyarat
+## Prasyarat
 
 * **Python 3.10+**: Runtime utama program.
 * **Kamera/Webcam**: Untuk menangkap input visual tangan.
 
-## 🚀 Instalasi
+## Instalasi
 
 1. **Clone repositori ini:**
 ```bash
